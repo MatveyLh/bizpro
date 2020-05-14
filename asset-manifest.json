@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bizpro/static/css/main.5ef550fb.chunk.css",
+    "main.js": "/bizpro/static/js/main.5d80744b.chunk.js",
+    "main.js.map": "/bizpro/static/js/main.5d80744b.chunk.js.map",
+    "runtime-main.js": "/bizpro/static/js/runtime-main.c05f051b.js",
+    "runtime-main.js.map": "/bizpro/static/js/runtime-main.c05f051b.js.map",
+    "static/css/2.c3594674.chunk.css": "/bizpro/static/css/2.c3594674.chunk.css",
+    "static/js/2.b58e8f71.chunk.js": "/bizpro/static/js/2.b58e8f71.chunk.js",
+    "static/js/2.b58e8f71.chunk.js.map": "/bizpro/static/js/2.b58e8f71.chunk.js.map",
+    "index.html": "/bizpro/index.html",
+    "precache-manifest.23e7d6544a145eb8cd7c42dfa5834a2d.js": "/bizpro/precache-manifest.23e7d6544a145eb8cd7c42dfa5834a2d.js",
+    "service-worker.js": "/bizpro/service-worker.js",
+    "static/css/2.c3594674.chunk.css.map": "/bizpro/static/css/2.c3594674.chunk.css.map",
+    "static/css/main.5ef550fb.chunk.css.map": "/bizpro/static/css/main.5ef550fb.chunk.css.map",
+    "static/js/2.b58e8f71.chunk.js.LICENSE.txt": "/bizpro/static/js/2.b58e8f71.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bizpro/static/media/rocket.d8d58e95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c05f051b.js",
+    "static/css/2.c3594674.chunk.css",
+    "static/js/2.b58e8f71.chunk.js",
+    "static/css/main.5ef550fb.chunk.css",
+    "static/js/main.5d80744b.chunk.js"
+  ]
+}
