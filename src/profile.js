@@ -6,10 +6,12 @@ class Profile extends React.Component {
         this.state = {redirect: "/login"}
     }
     render() {
-        let body = document.getElementsByTagName('body');
-        body[0].style = 'background-image: url("./assets/img/earth2.png"); background-repeat: no-repeat;\n' +
-            '  background-position: left 900px top 100px;\n' +
-            '  background-size: initial;';
+        if (window.location.href.indexOf('profile') !== -1) {
+            let body = document.getElementsByTagName('body');
+            body[0].style = 'background-image: url("./assets/img/earth2.png"); background-repeat: no-repeat;\n' +
+                '  background-position: left 900px top 100px;\n' +
+                '  background-size: initial;';
+        }
         if (localStorage.getItem('login') !== 'true') {
             return <Redirect to={this.state.redirect} />
         }

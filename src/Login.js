@@ -49,11 +49,12 @@ class Login extends React.Component {
         if (localStorage.getItem('login') === 'true') {
             return <Redirect to={this.state.redirect} />
         }
-        let body = document.getElementsByTagName('body');
-        body[0].style = 'background-image: url("./assets/img/earth2.png"); background-repeat: no-repeat;\n' +
-            '  background-position: left 900px top 100px;\n' +
-            '  background-size: initial;';
-
+        if (window.location.href.indexOf('login') !== -1) {
+            let body = document.getElementsByTagName('body');
+            body[0].style = 'background-image: url("./assets/img/earth2.png"); background-repeat: no-repeat;\n' +
+                '  background-position: left 900px top 100px;\n' +
+                '  background-size: initial;';
+        }
         return (
             <React.Fragment>
                 <h1 className='login-title'>Вход</h1>
