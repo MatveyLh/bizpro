@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bizpro/static/css/main.2337e5fa.chunk.css",
+    "main.css": "/bizpro/static/css/main.35513e94.chunk.css",
     "main.js": "/bizpro/static/js/main.863f0092.chunk.js",
     "main.js.map": "/bizpro/static/js/main.863f0092.chunk.js.map",
     "runtime-main.js": "/bizpro/static/js/runtime-main.c05f051b.js",
@@ -9,10 +9,10 @@
     "static/js/2.b58e8f71.chunk.js": "/bizpro/static/js/2.b58e8f71.chunk.js",
     "static/js/2.b58e8f71.chunk.js.map": "/bizpro/static/js/2.b58e8f71.chunk.js.map",
     "index.html": "/bizpro/index.html",
-    "precache-manifest.a236267a26bd2537b9c1d58061fe2e06.js": "/bizpro/precache-manifest.a236267a26bd2537b9c1d58061fe2e06.js",
+    "precache-manifest.4a51ac31aad5b6d55b79a1d3227a7ba0.js": "/bizpro/precache-manifest.4a51ac31aad5b6d55b79a1d3227a7ba0.js",
     "service-worker.js": "/bizpro/service-worker.js",
     "static/css/2.c3594674.chunk.css.map": "/bizpro/static/css/2.c3594674.chunk.css.map",
-    "static/css/main.2337e5fa.chunk.css.map": "/bizpro/static/css/main.2337e5fa.chunk.css.map",
+    "static/css/main.35513e94.chunk.css.map": "/bizpro/static/css/main.35513e94.chunk.css.map",
     "static/js/2.b58e8f71.chunk.js.LICENSE.txt": "/bizpro/static/js/2.b58e8f71.chunk.js.LICENSE.txt",
     "static/media/App.css": "/bizpro/static/media/rocket.d8d58e95.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.c05f051b.js",
     "static/css/2.c3594674.chunk.css",
     "static/js/2.b58e8f71.chunk.js",
-    "static/css/main.2337e5fa.chunk.css",
+    "static/css/main.35513e94.chunk.css",
     "static/js/main.863f0092.chunk.js"
   ]
 }
